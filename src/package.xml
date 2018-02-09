@@ -25,6 +25,10 @@
         <name>AuraDefinitionBundle</name>
     </types>
     <types>
+        <members>Contact.MakePublic__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
         <members>*</members>
         <name>StaticResource</name>
     </types>
